@@ -29,7 +29,6 @@ namespace TimerApp
                 this.BackColor = Color.Plum;
             }
 
-            //timer1.Enabled = false;
             timer1.Interval = timer1.Interval + 100;
         }
     }
